@@ -8,6 +8,5 @@ public abstract class KanaAppraiserTester
         // Test instantiation
         KanaAppraiser kana_evaluator_object = new KanaAppraiser();
 System.out.println("");
-System.out.println("");
     }
 }

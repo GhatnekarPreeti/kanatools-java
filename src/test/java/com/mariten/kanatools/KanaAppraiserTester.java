@@ -9,6 +9,6 @@ public abstract class KanaAppraiserTester
 System.out.println("");System.out.println("");System.out.println("");System.out.println("");
 System.out.println("");
 System.out.println("");
-System.out.println("");System.out.println("");System.out.println("");   
+System.out.println("");System.out.println("");System.out.println("");      
     }
 }

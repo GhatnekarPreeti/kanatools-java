@@ -5,7 +5,8 @@ public  class KanaAppraiserTester
 {
     public KanaAppraiserTester()
     {        // Test instantiation
-        KanaAppraiser kana_evaluator_object = new KanaAppraiser();    
+        KanaAppraiser kana_evaluator_object = new KanaAppraiser();   
+System.out.println(""); 
 
     }
 }
